@@ -55,10 +55,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Create project report
    
-      - Build presentation deck using Gamma AI
+     
   
-7. **Follow along with the YouTube video for full walkthrough. 👨‍💼**
-
 
 ## 📜 License
 
