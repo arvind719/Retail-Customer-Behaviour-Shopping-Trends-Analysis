@@ -53,7 +53,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
 6. **Create Project Report and Presentation**
 
-      - Create project report
    
      
   
